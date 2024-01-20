@@ -1,0 +1,9 @@
+<div class="business-3">
+<div class="business-3-part1">
+<label class="label-left">[text* your-name placeholder "Your Name*"] </label>
+<label class="label-right">[email* your-email placeholder "Your Email*"] </label>
+</div>
+<label>[text* your-subject placeholder "Subject"] </label>
+<label>[textarea your-message placeholder "Message*"]</label>
+[submit "SEND MESSAGE"]
+</div>
